@@ -266,6 +266,8 @@ class EditorialApiLoader
      */
     protected function unpublishArticle($articleId)
     {
+        $filePath = sprintf('%s/%s.xml',$this->articleStoreDirectory,$articleId);
+
         // check for existing record
         $recordExists = file_exists($filePath);
 
