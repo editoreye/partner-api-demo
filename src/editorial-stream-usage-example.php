@@ -13,7 +13,7 @@ class EditorialApiLoader
      *
      * @var string
      */
-    protected $serviceEndpoint = "http://partner-api.strategyeye.com/editorials/stream.xml";
+    protected $serviceEndpoint = "http://partner-api.editoreye.com/editorials/stream.xml";
 
     /**
      * The install ID
