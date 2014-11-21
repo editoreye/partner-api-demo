@@ -12,6 +12,6 @@ The API services covered at the point of writing are:
  - Editorial articles stream
  - Recommendations stream
 
-Full documentation for the API can be found at: http://partner-api.strategyeye.com/documentation
+Full documentation for the API can be found at: http://partner-api.editoreye.com/documentation
 
 Feel free to send comments or questions to us at support@editoreye.com.
