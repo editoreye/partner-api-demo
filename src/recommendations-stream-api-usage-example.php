@@ -13,7 +13,7 @@ class RecommendationsApiLoader
      *
      * @var string
      */
-    protected $serviceEndpoint = "http://partner-api.strategyeye.com/recommendations/stream.xml";
+    protected $serviceEndpoint = "http://partner-api.editoreye.com/recommendations/stream.xml";
 
     /**
      * The install ID
