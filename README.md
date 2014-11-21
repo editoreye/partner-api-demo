@@ -14,4 +14,4 @@ The API services covered at the point of writing are:
 
 Full documentation for the API can be found at: http://partner-api.strategyeye.com/documentation
 
-Feel free to send comments or questions to us at support@strategyeye.com.
+Feel free to send comments or questions to us at support@editoreye.com.
