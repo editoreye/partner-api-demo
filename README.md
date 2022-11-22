@@ -3,7 +3,7 @@ partner-api-demo
 
 ### Demonstration applications for accessing the EditorEye Partner API
 
-This repository contains applications do demonstrate suggested use of the Partner API for EditorEye. The applications
+This repository contains applications to demonstrate suggested use of the Partner API for EditorEye. The applications
 are provided as is and are not intended to be put into production in their current form, lacking much in the way of
 validation or error detection.
 
